@@ -1,1 +1,0 @@
-{"version":3,"file":"component---src-pages-404-js-cf820ae0138e128e3375.js","mappings":"gIAQA,UANqB,WACnB,OACE","sources":["webpack://power-risk/./src/pages/404.js"],"sourcesContent":["import * as React from \"react\"\n\nconst NotFoundPage = () => {\n  return (\n    <h1>404 Not Found</h1>\n  )\n}\n\nexport default NotFoundPage\n"],"names":[],"sourceRoot":""}

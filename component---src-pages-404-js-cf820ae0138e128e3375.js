@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkpower_risk=self.webpackChunkpower_risk||[]).push([[883],{429:function(e,n,r){r.r(n);var u=r(294);n.default=function(){return u.createElement("h1",null,"404 Not Found")}}}]);
-//# sourceMappingURL=component---src-pages-404-js-cf820ae0138e128e3375.js.map
